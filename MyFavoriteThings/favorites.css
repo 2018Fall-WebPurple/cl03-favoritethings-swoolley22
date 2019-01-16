@@ -15,8 +15,8 @@
 body{ 
 
 }
-#eagles { width: 200px; height: 100px}
+#eagles { width: 200px; height: 100px; float:none}
 
-#pawprint { width: 200px; height: 100px}
+#pawprint { width: 200px; height: 100px; float:none}
 
-#dance  { width: 200px; height: 100px}
+#dance  { width: 200px; height: 100px; float:none}
